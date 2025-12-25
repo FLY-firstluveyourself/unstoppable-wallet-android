@@ -55,4 +55,4 @@ All three licenses are permissive and allow for:
 
 The complete text of all three licenses is available in the main [LICENSE](LICENSE) file, and each license is also available in its own separate file for your convenience. See the [NOTICE](NOTICE) file for additional information.
 
-**Copyright © 2025 Horizontal Systems**
+**Copyright © 2025 Alicefosseneuve lovelustlost, luvelostLOVEFOUND**
